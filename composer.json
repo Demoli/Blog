@@ -26,10 +26,8 @@
     "extra": {
         "map": [
             [
-                [
-					"*",
-					"app/code/Skywire/Blog"
-				]
+                "*",
+                "Skywire/Blog"
             ]
         ]
     }
