@@ -28,7 +28,7 @@
             [
                 [
 					"Test/Integration",
-					"dev/tests/integration/testsuite/Skywire/Blog"
+					"../../dev/tests/integration/testsuite/Skywire/Blog"
 				]
             ]
         ]
