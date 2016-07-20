@@ -28,7 +28,7 @@
             [
                 [
 					"*",
-					"Skywire/Blog"
+					"app/code/Skywire/Blog"
 				]
             ]
         ]
