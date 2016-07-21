@@ -27,10 +27,6 @@
         "magento-force": true,
         "map": [
             [
-                "*",
-                "Skywire/Blog"
-            ],
-            [
                 "Test/Integration",
                 "../../dev/tests/integration/testsuite/Skywire/Blog"
             ]
