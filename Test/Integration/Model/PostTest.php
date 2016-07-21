@@ -35,7 +35,6 @@ class PostTest
 
     public function testCRUD()
     {
-        $this->assertTrue(false);
         $crud = new \Magento\TestFramework\Entity($this->post, ['url_key' => uniqid()]);
         $crud->testCrud();
     }

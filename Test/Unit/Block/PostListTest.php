@@ -49,7 +49,6 @@ class PostListTest
 
     public function testGetPosts()
     {
-        $this->assertTrue(false);
         $this->assertSame($this->postCollection, $this->block->getPosts());
         $this->assertEquals(1, $this->block->getPosts()->getIterator()->count());
     }
