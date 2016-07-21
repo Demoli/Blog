@@ -33,6 +33,7 @@ class PostViewTest
 
     public function testGetIdentities()
     {
+        $fileIsChanged = true;
         $id = 1;
         $this->block->setPost($this->post);
         $this->assertEquals(
